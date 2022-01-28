@@ -1,7 +1,6 @@
 #  Homework 1
 - - - 
 ## Functionality
-- - -
 
 Homework 1 will take any number of command line arguments as search keys and 
 search for how many times each key appears in a file your provide. Then will
@@ -11,7 +10,6 @@ The file is stored with dynamic memory allocation and tokenized with strtok.
  
 - - -
 ## Running Code
-- - -
 
 To run the Homework_1.c file,
 1. from terminal cd into the a directory containing Homework_1 and Makefile.
